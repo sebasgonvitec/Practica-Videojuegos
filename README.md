@@ -1,7 +1,7 @@
 # Practica-Videojuegos
 
-Sebastián González Villacorta
-A01029746
-Karla Valeria Mondragón Rosas
-A01025108
+Sebastián González Villacorta<br>
+A01029746<br>
+Karla Valeria Mondragón Rosas<br>
+A01025108<br>
 Repositorio para la práctica de conceptos básicos de videojuegos
